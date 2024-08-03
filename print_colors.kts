@@ -14,7 +14,7 @@ import org.w3c.dom.NodeList
 import org.w3c.dom.NamedNodeMap
 import javax.xml.xpath.*
 
-val DefaultColorScheme = "resources/META-INF/Prplkai.xml"
+val DefaultColorScheme = "resources/META-INF/purple-person.xml"
 val AttribKeyLen = 50
 
 // Run script with no arguments to display all attributes for the DefaultColorScheme,

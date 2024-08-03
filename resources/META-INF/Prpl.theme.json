@@ -1,8 +1,8 @@
 {
-  "name": "Prpl",
+  "name": "purple-person",
   "dark": true,
   "author": "nils måsén",
-  "editorScheme": "/META-INF/Prplkai.xml",
+  "editorScheme": "/META-INF/purple-person.xml",
   "ui": {
     "*": {
       "background": "prp200",
@@ -384,7 +384,7 @@
       "Checkbox.Foreground.Disabled.Dark": "#3c0079ff",
       "Checkbox.Foreground.Selected": "#ffffffd0",
       "Checkbox.Foreground.Selected.Dark": "#ffffffd0",
-      "Tree.iconColor": "#3c0079ff"
+      "Tree.iconColor": "#b05110ff"
     }
   }
 }
